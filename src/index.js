@@ -4,3 +4,5 @@ import App from "./components/App/App";
 
 const root = createRoot(document.getElementById("root"));
 root.render(<App />);
+
+/* this is a comment */
