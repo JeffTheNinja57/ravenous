@@ -5,3 +5,7 @@ A client-side React application, utilizing the Yelp API to search for local busi
 ## Second header
 
 Description
+
+## Third header
+
+1. Subscribe
