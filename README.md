@@ -8,4 +8,3 @@ Description
 
 ## Third header
 
-1. Subscribe
