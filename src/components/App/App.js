@@ -38,7 +38,8 @@ const App = () => {
         <div className={styles.App}>
             <h1>ravenous</h1>
             <SearchBar />
-            <BusinessList businesses={businesses}/>
+
+            <p>Hello World!</p>
         </div>
       );
     };
